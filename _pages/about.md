@@ -45,7 +45,7 @@ Publications
 
 - **Dongha Lee**, Jaehyung Lee, Hwanjo Yu, "Fast Tucker Factorization for Large-scale Tensor Completion", in International Conference on Data Mining (ICDM), 2018 [`Paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594951) [`Code`](https://github.com/donalee/ftcom) [`WebPage`](http://di.postech.ac.kr/ftcom/)
 
-- **Dongha Lee**, Jinoh Oh, Christos Faloutsos, Byungju Kim, Hwanjo Yu, "Disk-based Matrix Completion for Memory Limited Devices", in ACM International Conference on Information and Knowledge Management (CIKM), 2018 [`Paper`](https://dl.acm.org/doi/10.1145/3269206.3271685) ['WebPage'](http://di.postech.ac.kr/dmcc/)
+- **Dongha Lee**, Jinoh Oh, Christos Faloutsos, Byungju Kim, Hwanjo Yu, "Disk-based Matrix Completion for Memory Limited Devices", in ACM International Conference on Information and Knowledge Management (CIKM), 2018 [`Paper`](https://dl.acm.org/doi/10.1145/3269206.3271685) [`WebPage`](http://di.postech.ac.kr/dmcc/)
 
 - **Dongha Lee**, Hyunjun Ju, Jung-Mi Park, Kye-Yoon Kim, Hwanjo Yu, "DualSentiNet: Dual Prediction of Word and Document Sentiments Using Shared Word Embedding", in ACM International Conference on Ubiquitous Information Management and Communication (IMCOM), 2018 [`Paper`](https://dl.acm.org/doi/abs/10.1145/3164541.3164629)
 
