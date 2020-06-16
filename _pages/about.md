@@ -25,11 +25,11 @@ Education
 
 Publications
 ------
-- **Multi-class Data Description for Out-of-distribution Detection**\\
+- <span style="color:darkblue">**Multi-class Data Description for Out-of-distribution Detection**</span>\\
 **Dongha Lee**, Sehun Yu, Hwanjo Yu\\
 ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2020 [[paper]](https://to-be-appear) [[code]](https://github.com/donalee/DeepMCDD)
 
-- <span style="color:darkred">**Generating Sequential Electronic Health Records using Dual Adversarial Autoencoder**</span>
+- <span style="color:darkred">**Generating Sequential Electronic Health Records using Dual Adversarial Autoencoder**</span>\\
 **Dongha Lee**, Hwanjo Yu, Xiaoqian Jiang, Deevakar Rogith, Meghana Gudala, Mubeen Tejani, Qiuchen Zhang, Li Xiong\\
 Journal of the American Medical Informatics Association (JAMIA), 2020 (SCI) [[paper]](https://to-be-appear) [[code]](https://github.com/donalee/DualAAE-EHR)
 
