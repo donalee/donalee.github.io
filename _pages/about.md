@@ -72,7 +72,7 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2019\\
 
 - <span style="color:darkblue">**Fast Tucker Factorization for Large-scale Tensor Completion**</span>\\
 **Dongha Lee**, Jaehyung Lee, Hwanjo Yu\\
-International Conference on Data Mining (ICDM), 2018\\
+IEEE International Conference on Data Mining (ICDM), 2018\\
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594951) [[code]](https://github.com/donalee/ftcom) [[webpage]](http://di.postech.ac.kr/ftcom/)
 
 - <span style="color:darkblue">**Disk-based Matrix Completion for Memory Limited Devices**</span>\\
@@ -89,7 +89,7 @@ ACM International Conference on Ubiquitous Information Management and Communicat
 Junsu Cho, **Dongha Lee**, Hwanjo Yu\\
 Korean Database Conference (KDBC), 2017
 
-- <span style="color:darkred">GeoVideoIndex: Indexing for Georeferenced Videos**</span>\\
+- <span style="color:darkred">**GeoVideoIndex: Indexing for Georeferenced Videos**</span>\\
 **Dongha Lee**, Jinoh Oh, Woong-Kee Loh, Hwanjo Yu\\
 Information Sciences, 2016 (SCI)\\
 [[paper]](https://www.sciencedirect.com/science/article/pii/S002002551630768X)
