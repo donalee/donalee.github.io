@@ -35,7 +35,7 @@ ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 
 Journal of the American Medical Informatics Association (JAMIA), 2020 (SCI)\\
 [[paper]](https://to-be-appear) [[code]](https://github.com/donalee/DualAAE-EHR)
 
-- <span style="color:darkred">Harmonized Representation Learning on Dynamic EHR Graphs**</span>\\
+- <span style="color:darkred">**Harmonized Representation Learning on Dynamic EHR Graphs**</span>\\
 **Dongha Lee**, Xiaoqian Jiang, Hwanjo Yu\\
 Journal of Biomedical Informatics, 2020 (SCI)\\
 [[paper]](https://www.sciencedirect.com/science/article/pii/S153204642030054X) [[code]](https://github.com/donalee/horde)
@@ -45,17 +45,17 @@ Sehun Yu, **Dongha Lee**, Hwanjo Yu\\
 International Joint Conference on Artificial Intelligence (IJCAI), 2020\\
 [[paper]](https://to-be-appear) [[code]](https://github.com/hunu12/malcom)
 
-- <span style="color:darkred">PUMAD: PU Metric Learning for Anomaly Detection**</span>\\
+- <span style="color:darkred">**PUMAD: PU Metric Learning for Anomaly Detection**</span>\\
 Hyunjun Ju, **Dongha Lee**, Junyoung Hwang, Junghyun Namkung, Hwanjo Yu\\
 Information Sciences, 2020 (SCI)\\
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025520302012)
 
-- <span style="color:darkred">Scalable Disk-based Topic Modeling for Memory Limited Devices**</span>\\
+- <span style="color:darkred">**Scalable Disk-based Topic Modeling for Memory Limited Devices**</span>\\
 Byungju Kim, **Dongha Lee**, Jinoh Oh, Hwanjo Yu\\
 Information Sciences, 2020 (SCI)\\
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025519311818)
 
-- <span style="color:darkred">OCAM: Out-of-core Coordinate Descent Algorithm for Matrix Completion**</span>\\
+- <span style="color:darkred">**OCAM: Out-of-core Coordinate Descent Algorithm for Matrix Completion**</span>\\
 **Dongha Lee**, Jinoh Oh, Hwanjo Yu\\
 Information Sciences, 2019 (SCI)\\
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025519309284) [[code]](https://github.com/donalee/ocam) [[webpage]](http://di.postech.ac.kr/ocam/)
