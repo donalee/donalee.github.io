@@ -28,7 +28,7 @@ Publications
 - <span style="color:darkblue">**Multi-class Data Description for Out-of-distribution Detection**</span>\\
 **Dongha Lee**, Sehun Yu, Hwanjo Yu\\
 ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2020\\
-[[paper]](https://to-be-appear) [[code]](https://github.com/donalee/DeepMCDD)
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403189) [[code]](https://github.com/donalee/DeepMCDD)
 
 - <span style="color:darkred">**Generating Sequential Electronic Health Records using Dual Adversarial Autoencoder**</span>\\
 **Dongha Lee**, Hwanjo Yu, Xiaoqian Jiang, Deevakar Rogith, Meghana Gudala, Mubeen Tejani, Qiuchen Zhang, Li Xiong\\
@@ -43,7 +43,7 @@ Journal of Biomedical Informatics, 2020 (SCI)\\
 - <span style="color:darkblue">**Convolutional Neural Networks with Compression Complexity Pooling for Out-of-Distribution Image Detection**</span>\\
 Sehun Yu, **Dongha Lee**, Hwanjo Yu\\
 International Joint Conference on Artificial Intelligence (IJCAI), 2020\\
-[[paper]](https://to-be-appear) [[code]](https://github.com/hunu12/malcom)
+[[paper]](https://www.ijcai.org/Proceedings/2020/337) [[code]](https://github.com/hunu12/malcom)
 
 - <span style="color:darkred">**PUMAD: PU Metric Learning for Anomaly Detection**</span>\\
 Hyunjun Ju, **Dongha Lee**, Junyoung Hwang, Junghyun Namkung, Hwanjo Yu\\
