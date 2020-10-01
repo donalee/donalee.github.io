@@ -33,7 +33,7 @@ ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 
 - <span style="color:darkred">**Generating Sequential Electronic Health Records using Dual Adversarial Autoencoder**</span>\\
 **Dongha Lee**, Hwanjo Yu, Xiaoqian Jiang, Deevakar Rogith, Meghana Gudala, Mubeen Tejani, Qiuchen Zhang, Li Xiong\\
 Journal of the American Medical Informatics Association (JAMIA), 2020 (SCI)\\
-[[paper]](https://to-be-appear) [[code]](https://github.com/donalee/DualAAE-EHR)
+[[paper]](https://academic.oup.com/jamia/article-abstract/27/9/1411/5912632?redirectedFrom=fulltext) [[code]](https://github.com/donalee/DualAAE-EHR)
 
 - <span style="color:darkred">**Harmonized Representation Learning on Dynamic EHR Graphs**</span>\\
 **Dongha Lee**, Xiaoqian Jiang, Hwanjo Yu\\
