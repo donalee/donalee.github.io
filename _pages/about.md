@@ -25,6 +25,11 @@ Education
 
 Publications
 ------
+- <span style="color:darkblue">**Learnable Dynamic Temporal Pooling for Time Series Classification**</span>\\
+**Dongha Lee**, Seonghyeon Lee, Hwanjo Yu\\
+AAAI Conference on Artificial Intelligence (AAAI), 2021\\
+[paper] [[code]](https://github.com/donalee/DTW-Pool)
+
 - <span style="color:darkblue">**Multi-class Data Description for Out-of-distribution Detection**</span>\\
 **Dongha Lee**, Sehun Yu, Hwanjo Yu\\
 ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2020\\
