@@ -28,12 +28,12 @@ Publications
 - <span style="color:darkblue">**Learnable Dynamic Temporal Pooling for Time Series Classification**</span>\\
 **Dongha Lee**, Seonghyeon Lee, Hwanjo Yu\\
 AAAI Conference on Artificial Intelligence (AAAI), 2021\\
-[paper] [[code]](https://github.com/donalee/DTW-Pool)
+[[paper]](https://arxiv.org/abs/2104.02577) [[code]](https://github.com/donalee/DTW-Pool)
 
 - <span style="color:darkblue">**Multi-class Data Description for Out-of-distribution Detection**</span>\\
 **Dongha Lee**, Sehun Yu, Hwanjo Yu\\
 ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2020\\
-[[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403189) [[code]](https://github.com/donalee/DeepMCDD)
+[[paper]](https://arxiv.org/abs/2104.00941) [[code]](https://github.com/donalee/DeepMCDD)
 
 - <span style="color:darkred">**Generating Sequential Electronic Health Records using Dual Adversarial Autoencoder**</span>\\
 **Dongha Lee**, Hwanjo Yu, Xiaoqian Jiang, Deevakar Rogith, Meghana Gudala, Mubeen Tejani, Qiuchen Zhang, Li Xiong\\
