@@ -25,6 +25,11 @@ Education
 
 Publications
 ------
+- <span style="color:darkblue">**Bootstrapping User and Item Representations for One-Class Collaborative Filtering**</span>\\
+**Dongha Lee**, Seongku Kang, Hyunjun Ju, Chanyoung Park, Hwanjo Yu\\
+ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021\\
+[paper] [[code]](https://github.com/donalee/BUIR)
+
 - <span style="color:darkblue">**Learnable Dynamic Temporal Pooling for Time Series Classification**</span>\\
 **Dongha Lee**, Seonghyeon Lee, Hwanjo Yu\\
 AAAI Conference on Artificial Intelligence (AAAI), 2021\\
