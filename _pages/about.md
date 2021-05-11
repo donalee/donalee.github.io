@@ -28,7 +28,7 @@ Publications
 - <span style="color:darkblue">**Out-of-manifold Regularization in Contextual Embedding Space for Text Classification**</span>\\
 Seonghyeon Lee, **Dongha Lee**, Hwanjo Yu\\
 Annual Conference of the Association for Computational Linguistics (ACL), 2021\\
-[paper] [code]
+[paper] [[code]](https://github.com/sh0416/oommix)
 
 - <span style="color:darkblue">**Bootstrapping User and Item Representations for One-Class Collaborative Filtering**</span>\\
 **Dongha Lee**, Seongku Kang, Hyunjun Ju, Chanyoung Park, Hwanjo Yu\\
