@@ -33,7 +33,7 @@ Annual Conference of the Association for Computational Linguistics (ACL), 2021\\
 - <span style="color:darkblue">**Bootstrapping User and Item Representations for One-Class Collaborative Filtering**</span>\\
 **Dongha Lee**, Seongku Kang, Hyunjun Ju, Chanyoung Park, Hwanjo Yu\\
 ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021\\
-[paper] [[code]](https://github.com/donalee/BUIR)
+[[paper]](https://arxiv.org/abs/2105.06323) [[code]](https://github.com/donalee/BUIR)
 
 - <span style="color:darkblue">**Learnable Dynamic Temporal Pooling for Time Series Classification**</span>\\
 **Dongha Lee**, Seonghyeon Lee, Hwanjo Yu\\
