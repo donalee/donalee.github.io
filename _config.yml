@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dongha Lee"
 title_separator          : "-"
 name                     : &name "Dongha Lee"
-description              : &description "Postdoctoral researcher at POSTECH"
+description              : &description "Postdoctoral researcher at UIUC"
 url                      : https://donalee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "donalee/donalee.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dongha Lee"
   avatar           : "my_profile.jpg"
-  bio              : "Postdoctoral researcher at POSTECH"
-  location         : "Pohang, South Korea"
+  bio              : "Postdoctoral researcher at UIUC"
+  location         : "Urbana, IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/this-is-a-test"
-  email            : "dongha.lee@postech.ac.kr"
+  email            : "donghal@illinois.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
