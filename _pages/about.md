@@ -25,6 +25,11 @@ Education
 
 Publications
 ------
+- <span style="color:darkblue">**Weakly Supervised Temporal Anomaly Segmentation with Dynamic Time Warping**</span>\\
+**Dongha Lee**, Sehun Yu, Hyunjun Ju, Hwanjo Yu\\
+IEEE International Conference on Computer Vision (ICCV), 2021\\
+[[paper]](https://to-be-updated) [[code]](https://github.com/donalee/WETAS)
+
 - <span style="color:darkblue">**Out-of-manifold Regularization in Contextual Embedding Space for Text Classification**</span>\\
 Seonghyeon Lee, **Dongha Lee**, Hwanjo Yu\\
 Annual Conference of the Association for Computational Linguistics (ACL), 2021\\
